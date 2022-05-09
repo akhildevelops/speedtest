@@ -1,5 +1,5 @@
 [package]
-name = "speedtest"
+name = "rustyspeedtest"
 license = "MIT"
 edition = "2021"
 
