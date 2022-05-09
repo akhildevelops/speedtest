@@ -2,6 +2,7 @@
 name = "rustyspeedtest"
 license = "MIT"
 edition = "2021"
+readme = "Readme.md"
 
 version = "0.1.0"
 description = "Speed Test your Internet"
