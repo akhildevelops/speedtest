@@ -11,3 +11,6 @@ repository = "https://github.com/Enforcer007/rustyspeedtest.git"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+reqwest = { version = "0.11.10", features = ["blocking", "gzip"] }
+serde = { version = "1.0.137", features = ["derive"] }
+serde-xml-rs = { version = "0.5.1" }
