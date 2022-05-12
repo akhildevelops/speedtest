@@ -14,3 +14,4 @@ repository = "https://github.com/Enforcer007/rustyspeedtest.git"
 reqwest = { version = "0.11.10", features = ["blocking", "gzip"] }
 serde = { version = "1.0.137", features = ["derive"] }
 serde-xml-rs = { version = "0.5.1" }
+rand = { version = "0.8.5" }
