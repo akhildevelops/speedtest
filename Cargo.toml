@@ -1,11 +1,12 @@
 [package]
-name = "speedtest"
+name = "rustyspeedtest"
 license = "MIT"
 edition = "2021"
+readme = "Readme.md"
 
-version = "0.1.0"
+version = "0.1.1"
 description = "Speed Test your Internet"
-repository = "https://github.com/Enforcer007/speedtest.git"
+repository = "https://github.com/Enforcer007/rustyspeedtest.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
