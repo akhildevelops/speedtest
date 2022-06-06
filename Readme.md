@@ -2,6 +2,8 @@
 
 Speed test internet connection and display them in a graph daily using Airtable.
 
+[![Internet Speed Live Link](https://img.shields.io/badge/SpeedTest-Live-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)](https://airtable.com/shr6keYVxjy6V0maD)
+
 ![Network-Speed](https://i.imgur.com/LevGVsb.png)
 
 This App uses speedtest-cli provided by [speedtest.net](https://www.speedtest.net/)
