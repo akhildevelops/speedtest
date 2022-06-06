@@ -6,3 +6,5 @@ pub const RESULT: &str = "result";
 pub const URL: &str = "url";
 pub const TIMESTAMP: &str = "timestamp";
 pub const AIRTABLE_URL: &str = "https://api.airtable.com/v0";
+pub const AIRTABLE_BASE_ID: &str = "AIRTABLE_BASE_ID";
+pub const AIRTABLE_AUTH_KEY: &str = "AIRTABLE_AUTH_KEY";

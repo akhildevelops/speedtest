@@ -1,6 +1,6 @@
 mod airtable;
 mod client;
-mod defaults;
+pub mod defaults;
 pub use airtable::AirtableClient;
 pub use client::Ookla;
 
